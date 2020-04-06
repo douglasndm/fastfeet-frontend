@@ -34,6 +34,13 @@ export const LoginForm = styled.div`
     flex-direction: column;
     margin-top: 30px;
 
+    span {
+      color: #f64c75;
+      align-self: flex-start;
+      margin: 10px 0 10px;
+      font-weight: bold;
+    }
+
     strong {
       font-family: 'Roboto', sans-serif;
       text-align: left;
